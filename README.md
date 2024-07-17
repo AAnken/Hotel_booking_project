@@ -1,6 +1,10 @@
 # Final Project on Hotel Bookings
 Repository for final project within the Data Analytics/ Data Science course at Greenbootcamps.com
 
+Contributors:
+- JacquelineWeiss
+- AAnken
+
 ## Description of Dataset
 
 The dataset can be found on kaggle via this link https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
