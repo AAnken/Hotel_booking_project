@@ -11,6 +11,8 @@ The dataset can be found on kaggle via this link https://www.kaggle.com/datasets
 
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
+An explanation to the features can be found [here](https://github.com/AAnken/Hotel_booking_project/blob/main/column_names.md)
+
 ## Motivation
 The goal is to use the dataset to predict the event of cancellation and forecast the average daily rate of hotel rooms based on guest data. Different machine learning algorithms were compared and the best performing ones were implemented in a streamlit app. A dashboard was created to visualize the main findings of this dataset. 
 
